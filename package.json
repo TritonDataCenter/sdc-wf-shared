@@ -1,0 +1,8 @@
+{
+  "name": "wf-shared",
+  "description": "Workflow API shared tasks",
+  "version": "1.0.0",
+  "author": "Joyent (joyent.com)",
+  "private": true,
+  "main": "./lib/index.js"
+}
