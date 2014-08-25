@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "author": "Joyent (joyent.com)",
   "private": true,
-  "main": "./lib/index.js"
+  "main": "./lib/index.js",
+  "license": "MPL-2.0"
 }
