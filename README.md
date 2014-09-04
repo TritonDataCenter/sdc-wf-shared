@@ -8,16 +8,14 @@
     Copyright (c) 2014, Joyent, Inc.
 -->
 
-# Shared Workflow API tasks
+# sdc-wf-shared
 
-Repository: <git@git.joyent.com:wf-shared.git>
-Browsing: <https://mo.joyent.com/wf-shared>
-Tickets: Through the specific services that use these tasks
+This repository is part of the Joyent SmartDataCenter project (SDC).  For
+contribution guidelines, issues, and general documentation, visit the main
+[SDC](http://github.com/joyent/sdc) project page.
 
-
-# Overview
-
-These are tasks that can be re-used between workflows.
+These are tasks that can be re-used between SDC
+[Workflow API](https://github.com/joyent/sdc-workflow) workflows.
 
 
 # Development
